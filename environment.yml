@@ -8,3 +8,9 @@ dependencies:
   - spacy
   - jupyter
   - jupyterlab
+  - pytorch
+  - torchvision
+  - torchtext
+  - tqdm
+  - pip:
+      - tokenizers
