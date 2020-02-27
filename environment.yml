@@ -1,0 +1,10 @@
+name: apriori
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - spacy
+  - jupyter
+  - jupyterlab
